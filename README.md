@@ -1,4 +1,4 @@
-# felixbrite26
+# felixbritez26
 # Hi, I'm Felix 👋
 
 💻 Full Stack Developer (React + Flask)  

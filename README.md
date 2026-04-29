@@ -19,7 +19,7 @@ A full-stack web application that connects clients with nearby barbers.
 - Messaging system (structure ready)
 
 🔗 GitHub Repo:  
-https://github.com/felixbrite26/felix-barber-On-project
+https://github.com/felixbritez26/felix-barber-On-proyect
 
 🎥 Demo Video:  
 https://www.youtube.com/watch?v=xQHVvW3puyM
